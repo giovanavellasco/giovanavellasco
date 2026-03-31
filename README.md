@@ -6,4 +6,4 @@ Construindo minha base em C, HTML/CSS, JavaScript e SQL.
 - C — arrays, ponteiros, arquivos, structs
 - HTML & CSS — projetos web
 - JavaScript — DOM e projetos interativos
-- SQL — banco de dados relacional
+
